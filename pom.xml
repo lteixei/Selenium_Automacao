@@ -7,6 +7,9 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 </properties>
   <build>
+    <defaultGoal>install</defaultGoal>
+        <!-- Source directory configuration -->
+        <sourceDirectory>src</sourceDirectory>
     <plugins>
         <plugin>
             <!-- Armazenar resultados -->
