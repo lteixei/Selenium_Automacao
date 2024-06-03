@@ -1,5 +1,0 @@
-INDEX VERSION 1.131+C:\Users\T3666975\Desktop\Pasta de Trabalho\ProjetoBasico\TIM_Vendas\.metadata\.plugins\org.eclipse.jdt.core
-64148646.index
-3200073793.index
-1865797976.index
-3628977416.index
