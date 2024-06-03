@@ -10,6 +10,7 @@ import br.ce.wcaquino.pages.ContasPage;
 import br.ce.wcaquino.pages.MenuPage;
 
 
+
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 public class Logando_Google extends BaseTest {
 	
